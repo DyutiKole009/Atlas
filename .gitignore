@@ -1,0 +1,25 @@
+# CMake build output
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Compiled artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Logs and benchmark output
+*.log
+/logs/
+/benchmarks/results/
+/benchmarks/raw/
+/benchmark-results/
